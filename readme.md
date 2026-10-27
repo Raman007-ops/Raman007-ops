@@ -7,6 +7,7 @@
   <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="mailto:patraraman7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Raman007-ops&label=Profile%20views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
@@ -36,6 +37,7 @@ This account is where I build in public and keep things consistent.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Frontend**
 
@@ -79,12 +81,20 @@ This account is where I build in public and keep things consistent.
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Raman007-ops&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Raman007-ops&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raman007-ops&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Raman007-ops&theme=github-dark&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=Raman007-ops&theme=github-dark&hide_border=true&background=0d1117&timezone=Asia/Kolkata" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/339933/Raman007-ops" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raman007-ops&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Activity graph" />
 </p>
 
 ---
